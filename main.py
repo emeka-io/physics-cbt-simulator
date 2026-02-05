@@ -3,7 +3,6 @@ import time
 import os
 import random
 
-# 1. Question Pool extracted from your images
 # Format: "Question": [Option A, Option B, Option C, Option D, Correct Letter]
 FULL_QUESTION_POOL = {
     "The velocity V of a transverse wave along a stretched string depends on the stress P, the density D and the length l. Find x, y, z in V = kP^x D^y l^z": 
