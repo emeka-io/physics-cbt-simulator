@@ -1,9 +1,9 @@
 # physics-cbt-simulator
-A lightweight Python application designed to simulate a Computer Based Test (CBT) environment directly in the terminal (for phase 1)
+A lightweight Python application designed to simulate a Computer Based Test (CBT) environment directly in the terminal(for phase 1).
 
 ## Features
-- **Timer System**: 10-minute countdown with auto-submission.
-- **Randomization**: Pulls 15 random questions from a pre-defined physics pool.
+- **Timed System**: 10-minute countdown with auto-submission.
+- **Randomization**: The program pulls 15 random questions from a pre-defined physics questions pool/dictionary.
 - **Instant Results**: Detailed score breakdown after submission.
 
 ## How to Run
